@@ -13,13 +13,13 @@
         Una pequeña prueba de mi aplicacion reto ingenieria. 
     </description>
 
-    <author href="wwww.informatica2015.tk" email="deavilaosvaldo9@gmail.com">
-        Osvaldo
+    <author href="" email="">
+        Hyg Colombia
     </author>
 	
 <preference name="orientation" value="portrait" />
-<icon src="logo.png" />
-<gap:splash src="logo.png" />
+<icon src="icon.png" />
+<gap:splash src="icon.png" />
 <preference name="fullscreen" value="true" />
 
 
