@@ -17,8 +17,8 @@
     </author>
 	
 <preference name="orientation" value="portrait" />
-<icon src="logo.png" />
-<gap:splash src="logo.png" />
+<icon src="icon.png" />
+<gap:splash src="icon.png" />
 <preference name="fullscreen" value="true" />
 
 
